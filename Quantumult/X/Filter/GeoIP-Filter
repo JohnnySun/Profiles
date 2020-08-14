@@ -1,5 +1,6 @@
 # GeoIP China
 GEOIP,CN,DIRECT
+GEOIP,CN,HongKong
 
 # GeoIP North American
 GEOIP,US,NorthAmerican
