@@ -1,0 +1,24 @@
+# GeoIP China
+GEOIP,CN,DIRECT
+
+# GeoIP North American
+GEOIP,US,NorthAmerican
+GEOIP,CA,NorthAmerican
+GEOIP,MX,NorthAmerican
+
+# GeoIP Japan
+GEOIP,JP,Japan
+
+#GeoIP Taiwan
+GEOIP,TW,TaiWan
+
+# GeoIP Singapore
+GEOIP,SG,Singapore
+
+# GeoIP India
+GEOIP,IN,India
+
+# GeoIP South America
+GEOIP,AR,SouthAmerica
+GEOIP,CL,SouthAmerica
+GEOIP,BR,SouthAmerica
