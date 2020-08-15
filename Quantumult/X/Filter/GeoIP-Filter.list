@@ -2,16 +2,27 @@
 GEOIP,CN,DIRECT
 GEOIP,HK,HongKong
 
-# GeoIP North American
-GEOIP,US,NorthAmerican
-GEOIP,CA,NorthAmerican
-GEOIP,MX,NorthAmerican
+# GeoIP North America
+GEOIP,US,NorthAmerica
+GEOIP,AS,NorthAmerica
+GEOIP,CA,NorthAmerica
+GEOIP,MX,NorthAmerica
+GEOIP,BZ,NorthAmerica
+# Bahamas
+GEOIP,BS,NorthAmerica
+
+# GeoIP Australia
+GEOIP,AT,Australia
+GEOIP,NZ,Australia
 
 # GeoIP Japan
 GEOIP,JP,Japan
 
+#GeoIP KR
+GEOIP,KR,Korea
+
 #GeoIP Taiwan
-GEOIP,TW,TaiWan
+GEOIP,TW,Taiwan
 
 # GeoIP Singapore
 GEOIP,SG,Singapore
@@ -23,3 +34,54 @@ GEOIP,IN,India
 GEOIP,AR,SouthAmerica
 GEOIP,CL,SouthAmerica
 GEOIP,BR,SouthAmerica
+# Colombia
+GEOIP,CO,SouthAmeria
+# Cuba
+GEOIP,CU,SouthAmerica
+
+# GeoIP Europe
+GEOIP,GB,UK
+# Austria
+GEOIP,AT,Europe
+# Aland Islands
+GEOIP,AX,Europe
+# Belgium
+GEOIP,BE,Europe
+# Bolivia
+GEOIP,BO,Europe
+# Bouvet Island
+GEOIP,BV,Europe
+# Czech Republic
+GEOIP,CZ,Europe
+#Germany
+GEOIP,DE,Europe
+# Egypt
+GEOIP,EG,Europe
+# Spain
+GEOIP,ES,Europe
+# Finland
+GEOIP,FI,Europe
+# France
+GEOIP,FR,Europe
+# Greece
+GEOIP,GR,Europe
+# Ireland
+GEOIP,IE,Europe
+# Italy
+GEOIP,IT,Europe
+# Iceland
+GEOIP,IS,Europe
+# Norway
+GEOIP,NO,Europe
+# Poland
+GEOIP,PL,Europe
+# Portugal
+GEOIP,PT,Europe
+#Slovakia
+GEOIP,SK,Europe
+
+#GeoIP USSR
+#Belarus
+GEOIP,BY,Europe
+#Russian
+GEOIP,RU,Europe
