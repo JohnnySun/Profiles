@@ -35,7 +35,7 @@ GEOIP,AR,SouthAmerica
 GEOIP,CL,SouthAmerica
 GEOIP,BR,SouthAmerica
 # Colombia
-GEOIP,CO,SouthAmeria
+GEOIP,CO,SouthAmerica
 # Cuba
 GEOIP,CU,SouthAmerica
 
